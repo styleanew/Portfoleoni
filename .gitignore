@@ -95,3 +95,4 @@ obj/*
 bin/*
 appsettings.*
 pitchSite/font-awesome-4.1.0/*
+semantic/*
