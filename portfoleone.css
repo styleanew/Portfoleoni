@@ -291,6 +291,7 @@ form .row:first-child .floating-label-form-group {
 }
 footer {
   color: white;
+	background: none;
 }
 footer h3 {
   margin-bottom: 30px;
@@ -575,4 +576,15 @@ div#maincontent {
 
 .benefit-text {
     color: #174842;
+}
+
+.clear-backgrund {
+	background-color: azure;
+}
+
+.nolink{
+	text-decoration: none;
+	font-size: 10px;
+	text-emphasis: none;
+	border: none;
 }
