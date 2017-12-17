@@ -167,7 +167,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header {
-    background-image: url('../img/header-bg.jpg');
+    background-image: url('../img/header-bg-chzburger.jpg');
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
@@ -251,7 +251,7 @@ section {
 
 // Portfolio Section
 
-#portfolio {
+#catering {
     .portfolio-item {
         margin: 0 0 15px;
         right: 0;
@@ -315,7 +315,7 @@ section {
 }
 
 @media(min-width:767px) {
-    #portfolio {
+    #catering {
         .portfolio-item {
             margin: 0 0 30px;
         }
