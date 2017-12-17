@@ -96,3 +96,6 @@ bin/*
 appsettings.*
 pitchSite/font-awesome-4.1.0/*
 semantic/*
+
+# Contrary to NPM recommendations, ignoring this file unless good reason is found to not do so.
+package-lock.json
