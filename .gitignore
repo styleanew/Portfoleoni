@@ -80,7 +80,6 @@ Angular2_CoreUI*
 *.ldf
 *.ico
 *.eot
-*.svg
 *.woff
 *.ttf
 *.manifest
@@ -95,6 +94,7 @@ obj/*
 bin/*
 appsettings.*
 pitchSite/font-awesome-4.1.0/*
+pitchSite/fonts/*
 semantic/*
 
 # Contrary to NPM recommendations, ignoring this file unless good reason is found to not do so.
